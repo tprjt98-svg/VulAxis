@@ -6,7 +6,7 @@ AI-VAPT (Artificial Intelligence – Vulnerability Assessment and Penetration Te
 
 It’s designed for pentesters, red teams, and security researchers who want to move beyond manual recon and exploit discovery — into an AI-augmented security testing era.
 
-![AI-VAPT Dashboard](Dashboard.png)
+
 
 ⚡ Key Highlights
 
